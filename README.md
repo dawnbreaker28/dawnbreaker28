@@ -41,6 +41,7 @@
 ### Other Tools & Technologies
 
 - Git & GitHub
+- Kafka
 - CI/CD Pipelines
 - Agile & Scrum
 - RESTful APIs
