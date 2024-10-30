@@ -28,6 +28,7 @@
 ### Databases
 
 - MySQL
+- Redis
 - MongoDB
 
 ### Security Tools
